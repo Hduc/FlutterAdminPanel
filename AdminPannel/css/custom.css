@@ -1,0 +1,147 @@
+.fDVyfF {
+    width: 100%;
+    max-width: 410px;
+    background-size: cover;
+    background-image: url("../img/notification/phone.png");
+    height: 660px;
+     margin: 0px auto;
+    transition: height 0.3s ease-out 0s;
+    line-height: 1px;
+}
+.fDVyfFfly {
+    width: 100%;
+    max-width: 392px;
+    background-size: cover;
+    background-image: url("../img/notification/phone.png");
+    height: 741px;
+     margin: 0px auto;
+    transition: height 0.3s ease-out 0s;
+    line-height: 1px;
+}
+.dEwQFD {
+    position: relative;
+    top: 280px;
+    margin: auto;
+    width: 90%; 
+    cursor: pointer;
+}
+.fHlNKJ { 
+    font-family: Roboto, Proxima-Nova, "Proxima Nova", "Open Sans", Arial, Helvetica, sans-serif;
+    padding: 16px;
+    border-radius: 2px;
+    background-color: rgb(254, 254, 254);
+    box-shadow: rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px;
+    max-width: 500px;
+    overflow-y: hidden;
+    transition: height 0.3s ease-out 0s;
+    box-sizing: content-box;
+}
+.ZwMRE {
+    display: flex;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.gTWumr {
+    background-image: url("data:image/svg+xml,%3c%3fxml version='1.0' encoding='UTF-8'%3f%3e%3c!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'%3e%3csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='24' height='24' viewBox='0 0 24 24'%3e%3cpath d='M12%2c22A2%2c2 0 0%2c0 14%2c20H10A2%2c2 0 0%2c0 12%2c22M18%2c16V11C18%2c7.93 16.36%2c5.36 13.5%2c4.68V4A1.5%2c1.5 0 0%2c0 12%2c2.5A1.5%2c1.5 0 0%2c0 10.5%2c4V4.68C7.63%2c5.36 6%2c7.92 6%2c11V16L4%2c18V19H20V18L18%2c16Z' /%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100% 100%;
+    width: 17px;
+    margin-right: 4px;
+}
+
+.jIVepP {
+    color: rgb(99, 99, 99);
+    margin-right: 4px;
+}
+
+.fEaDjt {
+    display: inherit;
+    background-image: url("data:image/svg+xml,%3c%3fxml version='1.0' encoding='UTF-8'%3f%3e%3c!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'%3e%3csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='24' height='24' viewBox='0 0 24 24'%3e%3cpath d='M7.41%2c15.41L12%2c10.83L16.59%2c15.41L18%2c14L12%2c8L6%2c14L7.41%2c15.41Z' /%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100% 100%;
+    width: 0px;
+}
+.dcTGzQ {
+    margin-top: 8px;
+}
+.hlCnSV {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+.cDaNjW {
+    line-height: 1px;
+}
+.bLcLfs {
+    color: rgb(83, 83, 83);
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    letter-spacing: 0.1px;
+    margin: 0px;
+    display: inline-block;
+    overflow: hidden;
+    width: 315px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.hPcIuM {
+    font-size: 14px;
+    line-height: 20px;
+    color: rgb(117, 117, 117);
+    font-weight: 400;
+    letter-spacing: 0.1px;
+    margin: 0px;
+    display: inline-block;
+    overflow: hidden;
+    width: 315px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.dvJxIe {
+    display: flex;
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+    background-color: rgb(254, 254, 254);
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+
+.image {
+    display: none;
+} 
+
+
+
+.badge {
+    display: inline-block !important; 
+    font-size: 10px !important;
+    font-weight: 400 !important;
+    line-height: 1 !important;
+    color: #fff !important;
+    text-align: center !important;
+    white-space: nowrap !important;
+    vertical-align: baseline !important;
+    border-radius: 0.35rem !important;
+}
+.sidenav .sidenav-menu .nav .nav-link .badge {
+    padding: 0.125rem 0.25rem !important;
+}
+.bg-updated {
+    background-color: #ffae00 !important;
+}
+.bg-new{
+    background-color: #ff0000 !important;
+}
+.ms-auto {
+    margin-left: auto !important;
+}
+.cp-hsvpanel-a.cp-transparency {
+    display: none !important;
+}

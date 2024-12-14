@@ -1,0 +1,19 @@
+[21-Aug-2023 11:43:48 UTC] PHP Fatal error:  Uncaught Error: Class "Menus" not found in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/menu/enable.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/menu/enable.php on line 5
+[21-Aug-2023 17:11:17 UTC] PHP Fatal error:  Uncaught Error: Class "DBClass" not found in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menus.php:9
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/menu/all.php(3): require()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menus.php on line 9
+[21-Aug-2023 17:11:24 UTC] PHP Fatal error:  Uncaught Error: Class "DBClass" not found in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menus.php:9
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/menu/all.php(3): require()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menus.php on line 9
+[21-Aug-2023 17:11:41 UTC] PHP Fatal error:  Uncaught Error: Class "DBClass" not found in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menus.php:9
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/menu/all.php(3): require()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menus.php on line 9

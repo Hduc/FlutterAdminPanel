@@ -1,0 +1,1416 @@
+[12-Aug-2023 15:58:30 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[12-Aug-2023 15:58:30 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[12-Aug-2023 15:58:30 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[12-Aug-2023 15:58:30 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[12-Aug-2023 15:58:30 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[12-Aug-2023 15:58:30 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[12-Aug-2023 15:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[12-Aug-2023 15:58:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[12-Aug-2023 15:59:02 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[12-Aug-2023 15:59:02 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[12-Aug-2023 15:59:02 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[12-Aug-2023 15:59:02 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[12-Aug-2023 15:59:02 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[12-Aug-2023 15:59:02 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[12-Aug-2023 15:59:02 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[12-Aug-2023 15:59:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[12-Aug-2023 16:00:33 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[12-Aug-2023 16:00:33 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[12-Aug-2023 16:00:33 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[12-Aug-2023 16:00:33 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[12-Aug-2023 16:00:33 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[12-Aug-2023 16:00:33 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[12-Aug-2023 16:00:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[12-Aug-2023 16:00:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[12-Aug-2023 21:25:40 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[12-Aug-2023 21:25:40 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[12-Aug-2023 21:25:40 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[12-Aug-2023 21:25:40 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[12-Aug-2023 21:25:40 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[12-Aug-2023 21:25:40 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[12-Aug-2023 21:25:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[12-Aug-2023 21:25:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[13-Aug-2023 10:21:41 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[13-Aug-2023 10:21:41 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[13-Aug-2023 10:21:41 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[13-Aug-2023 10:21:41 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[13-Aug-2023 10:21:41 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[13-Aug-2023 10:21:41 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[13-Aug-2023 10:21:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[13-Aug-2023 10:21:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[13-Aug-2023 10:21:52 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[13-Aug-2023 10:21:52 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[13-Aug-2023 10:21:52 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[13-Aug-2023 10:21:52 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[13-Aug-2023 10:21:52 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[13-Aug-2023 10:21:52 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[13-Aug-2023 10:21:52 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[13-Aug-2023 10:21:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[13-Aug-2023 10:22:51 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[13-Aug-2023 10:22:51 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[13-Aug-2023 10:22:51 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[13-Aug-2023 10:22:51 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[13-Aug-2023 10:22:51 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[13-Aug-2023 10:22:51 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[13-Aug-2023 10:22:52 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[13-Aug-2023 10:22:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[13-Aug-2023 13:09:36 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[13-Aug-2023 13:09:36 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[13-Aug-2023 13:09:36 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[13-Aug-2023 13:09:36 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[13-Aug-2023 13:09:36 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[13-Aug-2023 13:09:36 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[13-Aug-2023 13:09:45 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[13-Aug-2023 13:09:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[13-Aug-2023 17:16:04 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[13-Aug-2023 17:16:04 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[13-Aug-2023 17:16:04 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[13-Aug-2023 17:16:04 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[13-Aug-2023 17:16:04 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[13-Aug-2023 17:16:04 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[13-Aug-2023 17:16:06 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[13-Aug-2023 17:16:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[13-Aug-2023 17:16:29 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[13-Aug-2023 17:16:29 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[13-Aug-2023 17:16:29 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[13-Aug-2023 17:16:29 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[13-Aug-2023 17:16:29 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[13-Aug-2023 17:16:29 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[13-Aug-2023 17:16:30 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[13-Aug-2023 17:16:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[14-Aug-2023 05:06:08 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[14-Aug-2023 05:06:08 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[14-Aug-2023 05:06:08 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[14-Aug-2023 05:06:08 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[14-Aug-2023 05:06:08 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[14-Aug-2023 05:06:08 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[14-Aug-2023 05:06:08 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[14-Aug-2023 05:06:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[14-Aug-2023 07:22:56 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[14-Aug-2023 07:22:56 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[14-Aug-2023 07:22:56 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[14-Aug-2023 07:22:56 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[14-Aug-2023 07:22:56 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[14-Aug-2023 07:22:56 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[14-Aug-2023 07:22:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[14-Aug-2023 07:22:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[14-Aug-2023 08:02:43 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[14-Aug-2023 08:02:43 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[14-Aug-2023 08:02:43 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[14-Aug-2023 08:02:43 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[14-Aug-2023 08:02:43 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[14-Aug-2023 08:02:43 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[14-Aug-2023 08:02:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[14-Aug-2023 08:02:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[14-Aug-2023 08:39:49 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[14-Aug-2023 08:39:49 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[14-Aug-2023 08:39:49 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[14-Aug-2023 08:39:49 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[14-Aug-2023 08:39:49 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[14-Aug-2023 08:39:49 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[14-Aug-2023 08:39:50 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[14-Aug-2023 08:39:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[14-Aug-2023 12:09:38 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[14-Aug-2023 12:09:38 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[14-Aug-2023 12:09:38 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[14-Aug-2023 12:09:38 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[14-Aug-2023 12:09:38 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[14-Aug-2023 12:09:38 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[14-Aug-2023 12:09:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[14-Aug-2023 12:09:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[14-Aug-2023 12:10:33 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[14-Aug-2023 12:10:34 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[14-Aug-2023 12:10:34 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[14-Aug-2023 12:10:34 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[14-Aug-2023 12:10:34 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[14-Aug-2023 12:10:34 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[14-Aug-2023 12:10:35 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[14-Aug-2023 12:10:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[15-Aug-2023 02:49:25 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 02:49:25 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 02:49:25 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 02:49:25 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 02:49:25 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 02:49:25 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 02:49:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[15-Aug-2023 02:49:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[15-Aug-2023 10:39:02 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 10:39:02 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 10:39:02 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 10:39:02 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 10:39:02 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 10:39:02 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 10:39:02 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[15-Aug-2023 10:39:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[15-Aug-2023 11:29:13 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:29:13 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:29:13 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:29:13 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:29:13 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:29:13 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:29:19 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[15-Aug-2023 11:29:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[15-Aug-2023 11:33:36 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:33:36 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:33:36 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:33:36 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:33:36 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:33:36 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:33:36 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[15-Aug-2023 11:33:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[15-Aug-2023 11:37:34 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:37:34 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:37:34 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:37:34 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:37:34 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:37:34 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:37:35 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[15-Aug-2023 11:37:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[15-Aug-2023 11:37:53 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:37:53 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:37:53 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:37:53 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:37:53 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:37:53 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:37:53 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[15-Aug-2023 11:37:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[15-Aug-2023 11:39:11 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:39:11 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:39:11 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:39:11 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:39:11 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:39:11 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:39:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[15-Aug-2023 11:39:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[15-Aug-2023 11:42:40 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:42:40 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:42:40 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:42:40 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:42:40 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:42:40 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:42:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[15-Aug-2023 11:42:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[15-Aug-2023 11:43:03 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:43:03 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:43:03 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:43:03 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:43:03 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:43:03 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:43:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[15-Aug-2023 11:43:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[15-Aug-2023 11:43:51 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:43:51 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:43:51 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:43:51 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:43:51 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:43:51 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:43:52 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[15-Aug-2023 11:43:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[15-Aug-2023 11:47:07 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:47:07 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:47:07 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:47:07 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:47:07 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:47:07 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:47:09 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[15-Aug-2023 11:47:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[15-Aug-2023 11:49:26 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:49:26 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:49:26 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:49:26 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:49:26 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:49:26 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:49:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[15-Aug-2023 11:49:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[15-Aug-2023 11:49:40 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:49:40 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:49:40 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:49:40 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:49:40 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:49:40 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:49:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[15-Aug-2023 11:49:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[15-Aug-2023 11:49:43 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:49:43 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:49:43 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:49:43 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:49:43 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 11:49:43 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 11:49:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[15-Aug-2023 11:49:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[15-Aug-2023 17:22:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 17:22:53 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 17:22:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 17:22:53 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 17:22:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 17:22:53 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 17:22:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 17:22:53 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 17:22:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 17:22:53 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 17:22:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 17:22:53 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 17:22:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 17:22:53 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 17:22:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 17:22:53 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 17:22:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 17:22:53 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 17:22:58 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[15-Aug-2023 17:22:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menus.php:89
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(40): Menus->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menus.php on line 89
+[15-Aug-2023 17:47:46 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 17:47:46 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 17:47:46 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 17:47:46 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 17:47:46 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 17:47:46 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 17:47:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[15-Aug-2023 17:47:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[15-Aug-2023 17:47:56 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 17:47:56 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 17:47:56 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 17:47:56 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 17:47:56 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[15-Aug-2023 17:47:56 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[15-Aug-2023 17:47:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[15-Aug-2023 17:47:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[16-Aug-2023 03:53:29 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 03:53:29 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 03:53:29 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 03:53:29 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 03:53:29 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 03:53:29 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 03:53:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[16-Aug-2023 03:53:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[16-Aug-2023 10:56:31 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 10:56:31 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 10:56:31 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 10:56:31 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 10:56:31 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 10:56:31 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 10:56:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[16-Aug-2023 10:56:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[16-Aug-2023 11:12:44 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 11:12:44 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 11:12:44 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 11:12:44 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 11:12:44 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 11:12:44 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 11:12:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[16-Aug-2023 11:12:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[16-Aug-2023 13:41:25 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 13:41:25 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 13:41:25 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 13:41:25 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 13:41:25 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 13:41:25 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 13:41:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[16-Aug-2023 13:41:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[16-Aug-2023 14:17:13 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 14:17:13 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 14:17:13 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 14:17:13 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 14:17:13 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 14:17:13 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 14:17:13 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[16-Aug-2023 14:17:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[16-Aug-2023 14:17:29 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 14:17:29 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 14:17:29 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 14:17:29 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 14:17:29 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 14:17:29 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 14:17:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[16-Aug-2023 14:17:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[16-Aug-2023 17:34:30 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 17:34:30 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 17:34:30 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 17:34:30 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 17:34:30 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 17:34:30 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 17:34:30 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[16-Aug-2023 17:34:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[16-Aug-2023 17:34:40 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 17:34:40 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 17:34:40 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 17:34:40 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 17:34:40 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[16-Aug-2023 17:34:40 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[16-Aug-2023 17:34:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[16-Aug-2023 17:34:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[17-Aug-2023 01:09:49 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 01:09:49 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 01:09:49 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 01:09:49 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 01:09:49 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 01:09:49 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 01:09:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[17-Aug-2023 01:09:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[17-Aug-2023 04:07:59 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 04:07:59 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 04:07:59 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 04:07:59 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 04:07:59 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 04:07:59 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 04:07:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[17-Aug-2023 04:07:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[17-Aug-2023 04:08:05 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 04:08:05 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 04:08:05 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 04:08:05 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 04:08:05 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 04:08:05 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 04:08:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[17-Aug-2023 04:08:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[17-Aug-2023 05:06:54 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 05:06:54 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 05:06:54 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 05:06:54 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 05:06:54 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 05:06:54 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 05:06:54 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[17-Aug-2023 05:06:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[17-Aug-2023 09:13:17 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 09:13:17 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 09:13:17 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 09:13:17 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 09:13:17 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 09:13:17 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 09:13:17 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[17-Aug-2023 09:13:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[17-Aug-2023 10:00:04 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 10:00:04 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 10:00:04 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 10:00:04 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 10:00:04 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 10:00:04 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 10:00:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[17-Aug-2023 10:00:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[17-Aug-2023 10:00:21 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 10:00:21 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 10:00:21 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 10:00:21 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 10:00:21 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 10:00:21 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 10:00:21 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[17-Aug-2023 10:00:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[17-Aug-2023 10:01:44 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 10:01:44 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 10:01:44 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 10:01:44 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 10:01:44 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 10:01:44 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 10:01:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[17-Aug-2023 10:01:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[17-Aug-2023 10:02:36 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 10:02:36 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 10:02:36 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 10:02:36 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 10:02:36 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 10:02:36 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 10:02:36 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[17-Aug-2023 10:02:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php:96
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(51): MenuDynamics->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/menusdynamics.php on line 96
+[17-Aug-2023 10:07:02 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:24
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(22): DBClass->__construct()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 10:11:24 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:24
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(22): DBClass->__construct()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 10:29:23 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:24
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(22): DBClass->__construct()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 11:15:02 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:24
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(22): DBClass->__construct()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 11:42:58 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:24
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(22): DBClass->__construct()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 12:48:17 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:24
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(22): DBClass->__construct()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 15:37:52 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 15:37:52 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(34): DBClass->__construct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 15:37:59 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 15:37:59 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(34): DBClass->__construct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 15:38:06 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 15:38:06 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(34): DBClass->__construct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[17-Aug-2023 18:24:44 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[17-Aug-2023 18:24:44 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(34): DBClass->__construct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[18-Aug-2023 02:00:47 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[18-Aug-2023 02:00:47 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(34): DBClass->__construct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[18-Aug-2023 02:25:00 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[18-Aug-2023 02:25:00 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(34): DBClass->__construct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[18-Aug-2023 02:25:08 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[18-Aug-2023 02:25:08 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(34): DBClass->__construct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[18-Aug-2023 03:48:30 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[18-Aug-2023 03:48:30 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(34): DBClass->__construct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[18-Aug-2023 03:49:17 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[18-Aug-2023 03:49:17 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(34): DBClass->__construct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[18-Aug-2023 03:55:42 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[18-Aug-2023 03:55:42 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(34): DBClass->__construct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[18-Aug-2023 08:37:31 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[18-Aug-2023 08:37:31 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(34): DBClass->__construct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[18-Aug-2023 08:37:46 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[18-Aug-2023 08:37:46 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(34): DBClass->__construct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[18-Aug-2023 19:39:07 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[18-Aug-2023 19:39:07 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[18-Aug-2023 20:27:18 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[18-Aug-2023 20:27:18 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[18-Aug-2023 23:49:53 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[18-Aug-2023 23:49:53 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[19-Aug-2023 02:06:35 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[19-Aug-2023 02:06:35 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[19-Aug-2023 02:06:58 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[19-Aug-2023 02:06:58 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[19-Aug-2023 10:09:19 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[19-Aug-2023 10:09:19 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[19-Aug-2023 10:09:24 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[19-Aug-2023 10:09:24 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[19-Aug-2023 14:41:21 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[19-Aug-2023 14:41:21 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[19-Aug-2023 14:41:34 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[19-Aug-2023 14:41:34 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[19-Aug-2023 15:40:31 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[19-Aug-2023 15:40:31 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[19-Aug-2023 15:44:51 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[19-Aug-2023 15:44:51 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[19-Aug-2023 16:45:34 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[19-Aug-2023 16:45:34 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[19-Aug-2023 16:49:26 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[19-Aug-2023 16:49:26 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[19-Aug-2023 16:49:32 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[19-Aug-2023 16:49:32 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[20-Aug-2023 14:39:57 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[20-Aug-2023 14:39:57 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[20-Aug-2023 14:40:07 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[20-Aug-2023 14:40:07 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[20-Aug-2023 14:41:37 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[20-Aug-2023 14:41:37 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[20-Aug-2023 20:42:26 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[20-Aug-2023 20:42:26 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[20-Aug-2023 22:50:49 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[20-Aug-2023 22:50:49 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[20-Aug-2023 22:51:08 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[20-Aug-2023 22:51:08 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[20-Aug-2023 23:04:37 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[20-Aug-2023 23:04:37 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 03:58:03 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[21-Aug-2023 03:58:03 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 03:58:16 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[21-Aug-2023 03:58:16 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 05:27:37 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[21-Aug-2023 05:27:37 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 11:32:56 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[21-Aug-2023 11:32:56 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 11:34:06 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[21-Aug-2023 11:34:06 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 11:38:57 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[21-Aug-2023 11:38:57 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 11:42:24 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[21-Aug-2023 11:42:24 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 11:45:07 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[21-Aug-2023 11:45:07 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 11:45:22 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutter already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[21-Aug-2023 11:45:22 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 11:47:38 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[21-Aug-2023 11:47:38 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 11:47:47 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[21-Aug-2023 11:47:47 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 11:54:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:22
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(22): DBClass->__construct()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 22
+[21-Aug-2023 11:54:25 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[21-Aug-2023 11:54:25 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 12:00:57 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[21-Aug-2023 12:00:57 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:32
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(32): mysqli->query()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/translations.php(48): DBClass->query()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/translations.php(127): Translations->getAllQuery()
+#3 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(78): Translations->getTranslationByLang()
+#4 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#5 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[21-Aug-2023 12:01:11 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[21-Aug-2023 12:01:11 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:32
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(32): mysqli->query()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/translations.php(48): DBClass->query()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/translations.php(127): Translations->getAllQuery()
+#3 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(78): Translations->getTranslationByLang()
+#4 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#5 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[21-Aug-2023 12:01:22 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[21-Aug-2023 12:01:22 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:32
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(32): mysqli->query()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/translations.php(48): DBClass->query()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/translations.php(127): Translations->getAllQuery()
+#3 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(78): Translations->getTranslationByLang()
+#4 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#5 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 32
+[21-Aug-2023 12:07:20 UTC] PHP Fatal error:  Uncaught Error: Call to private DBClass::__construct() from global scope in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php:22
+Stack trace:
+#0 {main}
+
+Next Error: Call to a member function close() on null in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:83
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(97): DBClass->close()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(22): DBClass->__destruct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 83
+[21-Aug-2023 12:07:27 UTC] PHP Fatal error:  Uncaught Error: Call to private DBClass::__construct() from global scope in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php:22
+Stack trace:
+#0 {main}
+
+Next Error: Call to a member function close() on null in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:83
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(97): DBClass->close()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(22): DBClass->__destruct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 83
+[21-Aug-2023 12:07:30 UTC] PHP Fatal error:  Uncaught Error: Call to private DBClass::__construct() from global scope in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php:22
+Stack trace:
+#0 {main}
+
+Next Error: Call to a member function close() on null in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:83
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(97): DBClass->close()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(22): DBClass->__destruct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 83
+[21-Aug-2023 12:08:15 UTC] PHP Fatal error:  Uncaught Error: Call to private DBClass::__construct() from global scope in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php:22
+Stack trace:
+#0 {main}
+
+Next Error: Call to a member function close() on null in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:83
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(97): DBClass->close()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(22): DBClass->__destruct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 83
+[21-Aug-2023 12:08:27 UTC] PHP Fatal error:  Uncaught Error: Call to private DBClass::__construct() from global scope in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php:22
+Stack trace:
+#0 {main}
+
+Next Error: Call to a member function close() on null in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:83
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(97): DBClass->close()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(22): DBClass->__destruct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 83
+[21-Aug-2023 12:13:56 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[21-Aug-2023 12:13:56 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 12:15:03 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 12:15:03 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:26
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(26): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 26
+[21-Aug-2023 12:16:01 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 12:16:01 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:26
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(26): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 26
+[21-Aug-2023 12:16:07 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 12:16:07 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:26
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(26): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 26
+[21-Aug-2023 12:16:51 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 12:16:51 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:27
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(27): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 27
+[21-Aug-2023 12:17:08 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 12:17:08 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:27
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(27): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 27
+[21-Aug-2023 12:19:29 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 12:19:29 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:29
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(29): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 29
+[21-Aug-2023 12:22:38 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'a5tt22olhhcx_procostflutterqaqc	'@'localhost' (using password: YES) in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 12:22:38 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:29
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(29): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(22): DBClass->__construct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 29
+[21-Aug-2023 12:24:10 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'a5tt22olhhcx_procostflutterqaqc	'@'localhost' (using password: YES) in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 12:24:10 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:29
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(29): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(22): DBClass->__construct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 29
+[21-Aug-2023 12:24:16 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'a5tt22olhhcx_procostflutterqaqc	'@'localhost' (using password: YES) in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 12:24:16 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:29
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(29): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(22): DBClass->__construct()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 29
+[21-Aug-2023 12:24:47 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[21-Aug-2023 12:24:47 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:29
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(29): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 29
+[21-Aug-2023 12:26:52 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 29
+[21-Aug-2023 12:26:52 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:30
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(30): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 30
+[21-Aug-2023 12:28:01 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 29
+[21-Aug-2023 12:28:01 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:30
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(30): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 30
+[21-Aug-2023 12:29:12 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 28
+[21-Aug-2023 12:29:12 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:31
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(31): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 31
+[21-Aug-2023 12:29:59 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 28
+[21-Aug-2023 12:29:59 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:31
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(31): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 31
+[21-Aug-2023 12:35:56 UTC] PHP Fatal error:  Uncaught Error: Class "DBClass" not found in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/app_settings.php:8
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(6): require_once()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/app_settings.php on line 8
+[21-Aug-2023 16:43:27 UTC] PHP Fatal error:  Uncaught Error: Class "Floatings" not found in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php on line 25
+[21-Aug-2023 16:44:06 UTC] PHP Warning:  Undefined variable $socials in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php on line 42
+[21-Aug-2023 16:44:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllEnable() on null in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php on line 42
+[21-Aug-2023 16:46:11 UTC] PHP Fatal error:  Uncaught Error: Class "UserAgent" not found in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php on line 30
+[21-Aug-2023 16:48:07 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 28
+[21-Aug-2023 16:48:07 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:31
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(31): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(54): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 31
+[21-Aug-2023 16:48:16 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 28
+[21-Aug-2023 16:48:16 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:31
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(31): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(54): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 31
+[21-Aug-2023 16:48:27 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 28
+[21-Aug-2023 16:48:27 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:31
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(31): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(54): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 31
+[21-Aug-2023 17:00:57 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 28
+[21-Aug-2023 17:00:57 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:31
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(31): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(60): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 31
+[21-Aug-2023 17:01:40 UTC] PHP Warning:  Undefined variable $menusdynamics in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php on line 58
+[21-Aug-2023 17:01:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllEnable() on null in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php on line 58
+[21-Aug-2023 17:03:18 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 28
+[21-Aug-2023 17:03:18 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:31
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(31): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(60): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 31
+[21-Aug-2023 17:05:52 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 28
+[21-Aug-2023 17:05:52 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:31
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(31): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(60): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 31
+[21-Aug-2023 17:42:12 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 28
+[21-Aug-2023 17:42:12 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:31
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(31): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(60): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 31
+[21-Aug-2023 17:42:52 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 28
+[21-Aug-2023 17:42:52 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:31
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(31): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(60): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 31
+[21-Aug-2023 17:43:08 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 28
+[21-Aug-2023 17:43:08 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:31
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(31): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(60): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 31
+[21-Aug-2023 17:43:30 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 28
+[21-Aug-2023 17:43:30 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:31
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(31): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(60): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 31
+[21-Aug-2023 17:46:18 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 28
+[21-Aug-2023 17:46:18 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:31
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(31): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(75): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(60): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 31
+[21-Aug-2023 17:47:33 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 28
+[21-Aug-2023 17:47:33 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:31
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(31): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(75): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(60): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 31
+[21-Aug-2023 17:47:50 UTC] PHP Fatal error:  Uncaught Error: Class "Translations" not found in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php:75
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(60): Languages->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php on line 75
+[21-Aug-2023 17:47:53 UTC] PHP Fatal error:  Uncaught Error: Class "Translations" not found in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php:75
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(60): Languages->getAllEnable()
+#1 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php on line 75
+[21-Aug-2023 17:48:13 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 28
+[21-Aug-2023 17:48:13 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:31
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(31): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(75): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(60): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 31
+[21-Aug-2023 17:52:37 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 28
+[21-Aug-2023 17:52:37 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:31
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(31): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(60): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 31
+[21-Aug-2023 17:58:21 UTC] PHP Fatal error:  Uncaught Error: Class "Languages" not found in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php on line 42
+[21-Aug-2023 17:58:47 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 28
+[21-Aug-2023 17:58:47 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:31
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(31): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(60): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 31
+[21-Aug-2023 18:03:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php:75
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(89): Languages->getTranslationByLang()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(60): Languages->getAllEnable()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php on line 75
+[21-Aug-2023 18:04:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php:76
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(90): Languages->getTranslationByLang()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(60): Languages->getAllEnable()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php on line 76
+[21-Aug-2023 18:04:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php:76
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(90): Languages->getTranslationByLang()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(60): Languages->getAllEnable()
+#2 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php on line 76
+[22-Aug-2023 08:47:46 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[22-Aug-2023 08:47:47 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[22-Aug-2023 08:48:19 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[22-Aug-2023 08:48:19 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[22-Aug-2023 08:49:40 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[22-Aug-2023 08:49:40 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[22-Aug-2023 08:50:24 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[22-Aug-2023 08:50:24 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[22-Aug-2023 09:12:44 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[22-Aug-2023 09:12:44 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[22-Aug-2023 09:12:54 UTC] PHP Warning:  mysqli::__construct(): (42000/1203): User a5tt22olhhcx_procostflutterqaqc already has more than 'max_user_connections' active connections in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 24
+[22-Aug-2023 09:12:54 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php:25
+Stack trace:
+#0 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php(25): mysqli->set_charset()
+#1 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php(74): DBClass->__construct()
+#2 /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/api/settings/settings.php(53): Languages->getAllEnable()
+#3 {main}
+  thrown in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/config/DBClass.php on line 25
+[22-Aug-2023 09:19:53 UTC] PHP Parse error:  syntax error, unexpected token ".", expecting "function" or "const" in /home/a5tt22olhhcx/flutter.procostsystems.com/flyqaqc/controllers/languages.php on line 69

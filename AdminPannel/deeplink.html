@@ -1,0 +1,23 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>FlyWeb</title>
+    <script>
+        window.onload = function() {
+            var urlParams = new URLSearchParams(window.location.search);
+            window.location = 'app.flyweb.scheme://url/' + urlParams.get('url');
+        }
+    </script>
+</head>
+<body>
+    <text>
+        I'm send URL  <br>
+        =&gt;<br>
+        <script>
+            var urlParams = new URLSearchParams(window.location.search);
+            document.write('app.flyweb.scheme://url/' + urlParams.get('url'));
+        </script> 
+    </text> 
+</body>
+</html>
